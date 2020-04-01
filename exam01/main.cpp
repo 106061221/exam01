@@ -1,6 +1,6 @@
 #include "mbed.h"
 
-PwmOut PWM1(D7);
+PwmOut PWM1(D6);
 
 int main() {
     double i;
